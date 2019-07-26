@@ -21,7 +21,7 @@ class App extends Component {
                 </Fragment>
             </Provider>
         );
-    }
+    };
 }
 
 ReactDOM.render(<App />, document.getElementById('app'));
